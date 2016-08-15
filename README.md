@@ -1,3 +1,21 @@
-# CP-1
+# CP-1 Computer Hardware
 
-Hello World
+## Bundkort
+
+## CPU - Processor
+
+## Grafikkort
+
+## RAM - arbejdshukommelse i computere
+
+## Diskdrev
+
+## Harddisk
+
+## Strømforsyning
+
+## Periferi udstyr
+
+
+
+
